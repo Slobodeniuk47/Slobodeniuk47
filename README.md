@@ -1,13 +1,6 @@
 ### Hi there 👋
 <p>&nbsp;</p>
-<!-- REACT  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-</a>
-<!-- VITE  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-</a>
+Protection against ddos ​​attacks
 <!-- Cloudflare  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
