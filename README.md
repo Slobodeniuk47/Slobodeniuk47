@@ -13,7 +13,7 @@
   <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </a>
 
-<!-- Languages -->
+Languages
 
 <!-- C#  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
@@ -28,7 +28,7 @@
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
 
-<!-- OS -->
+OS
 
 <!-- CENTOS  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
@@ -48,7 +48,48 @@
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
-
+Frameworks, Platforms and Libraries
+<!-- .NET  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+</a>
+<!-- BOOTSTRAP  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</a>
+<!-- JWT  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</a>
+<!-- NodeJS  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+<!-- NuxtJS  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
+</a>
+<!-- REACT  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</a>
+<!-- REACT NATIVE  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+</a>
+<!-- REDUX  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+</a>
+<!-- Spring  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+</a>
+<!-- VITE  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+</a>
+OTHERS
 <!-- SWAGGER  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
@@ -77,6 +118,11 @@
 <!-- TS  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+IDEs/Editors
+<!-- Eclipse  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
 </a>
 
 <!-- VS Code  https://github.com/Ileriayo/markdown-badges -->
