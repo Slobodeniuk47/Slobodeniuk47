@@ -98,30 +98,6 @@ Developer/Forums
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white" />
 </a>
-<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
-<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
-<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
-<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
-<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
-<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
 
 
 
@@ -266,12 +242,6 @@ IDEs/Editors
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </a>
-
-<!-- Web Storm  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
-
 <!-- Sublime  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
@@ -300,17 +270,6 @@ IDEs/Editors
 <!-- PHP Storm  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
-</a>
-
-
-<!-- Web Storm  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
-</a>
-
-<!-- TS  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="" />
 </a>
 
 
