@@ -12,6 +12,127 @@
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </a>
+
+
+
+<p>&nbsp;</p>
+Databases
+
+
+<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</a>
+<!-- MS SQL  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+</a>
+<!-- MongoDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</a>
+<!-- MySQL  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+<!-- Postgres SQL  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
+<!-- MySQL  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+
+Developer/Forums
+
+
+
+<!-- CodeChef  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+</a>
+<!-- Codeforces  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />
+</a>
+<!-- CodePen  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+<!-- HackerEarth-  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" />
+</a>
+<!-- Hackerrank  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+<!-- LeetCode  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
+<!-- Kaggle  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<!-- OnePlus  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/OnePlusForums-%23EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white" />
+</a>
+<!-- Quora  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" />
+</a>
+<!-- Reddit  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
+</a>
+<!-- ResearchGate  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
+</a>
+<!-- StackExchange  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange" />
+</a>
+<!-- Stackoverflow  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+</a>
+<!-- XDA-Developers  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white" />
+</a>
+<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+
+
+
+
 <p>&nbsp;</p>
 Languages
 
