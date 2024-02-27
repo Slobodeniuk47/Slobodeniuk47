@@ -4,6 +4,10 @@
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </a>
+<!-- VITE  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+</a>
 <!-- Cloudflare  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
@@ -44,6 +48,94 @@
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
+
+<!-- SWAGGER  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
+</a>
+
+<!-- TRELLO  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
+</a>
+
+<!-- DOCKER  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
+<!-- HIBERNAT  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+</a>
+
+<!-- JS  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+</a>
+
+<!-- TS  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+</a>
+
+<!-- VS Code  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</a>
+
+<!-- VS Studio  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</a>
+
+<!-- Web Storm  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+
+<!-- Sublime  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" />
+</a>
+
+<!-- Web Storm  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" />
+</a>
+
+<!-- IntelliJ IDEA https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</a>
+
+<!-- Notepad++  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
+</a>
+
+<!-- Android Studio  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+</a>
+
+<!-- PHP Storm  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />
+</a>
+
+
+<!-- Web Storm  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+
+<!-- TS  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="" />
+</a>
+
+
 
 
 &nbsp;
