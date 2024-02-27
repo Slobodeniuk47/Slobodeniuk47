@@ -12,7 +12,7 @@
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </a>
-
+<p>&nbsp;</p>
 Languages
 
 <!-- C#  https://github.com/Ileriayo/markdown-badges -->
@@ -27,7 +27,7 @@ Languages
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </a>
-
+<p>&nbsp;</p>
 OS
 
 <!-- CENTOS  https://github.com/Ileriayo/markdown-badges -->
@@ -48,7 +48,12 @@ OS
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
+
+<p>&nbsp;</p>
 Frameworks, Platforms and Libraries
+
+
+
 <!-- .NET  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -89,7 +94,13 @@ Frameworks, Platforms and Libraries
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </a>
+
+
+<p>&nbsp;</p>
 OTHERS
+
+
+
 <!-- SWAGGER  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" />
@@ -119,7 +130,14 @@ OTHERS
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
+
+
+
+<p>&nbsp;</p>
 IDEs/Editors
+
+
+
 <!-- Eclipse  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
