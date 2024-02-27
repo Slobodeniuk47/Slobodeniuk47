@@ -1,9 +1,54 @@
 ### Hi there 👋
 <p>&nbsp;</p>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- REACT  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </a>
+<!-- Cloudflare  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+</a>
+
+<!-- Languages -->
+
+<!-- C#  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+</a>
+<!-- C++  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</a>
+<!-- JAVA  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+</a>
+
+<!-- OS -->
+
+<!-- CENTOS  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />
+</a>
+<!-- DEBIAN  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
+</a>
+
+<!-- UBUNTU  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</a>
+
+<!-- WINDOWS  https://github.com/Ileriayo/markdown-badges -->
+<a href="https://github.com/slobodeniuk47">
+  <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+
+
+
+
 <a href="https://github.com/slobodeniuk47">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=slobodeniuk47&theme=transparent" />
 </a>
