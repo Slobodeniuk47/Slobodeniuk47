@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <a href="https://github.com/slobodeniuk47">
-  <img height=200 align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 </a>
 <a href="https://github.com/slobodeniuk47">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=slobodeniuk47&theme=transparent" />
