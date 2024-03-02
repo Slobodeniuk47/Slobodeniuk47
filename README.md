@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>&nbsp;</p>
-Protection against ddos ​​attacks
+Basic site protection
 <!-- Cloudflare  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
