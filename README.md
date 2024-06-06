@@ -1,4 +1,7 @@
 ### Hi there 👋
+Whats-Up: +4915110980669
+Instagram: Slobodeniuk47
+Telegram: @frugsmit
 <p>&nbsp;</p>
 Basic site protection
 <!-- Cloudflare  https://github.com/Ileriayo/markdown-badges -->
