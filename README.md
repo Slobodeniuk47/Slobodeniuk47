@@ -15,11 +15,6 @@ Basic site protection
 <p>&nbsp;</p>
 Databases
 
-
-<!-- MariaDB  https://github.com/Ileriayo/markdown-badges -->
-<a href="https://github.com/slobodeniuk47">
-  <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-</a>
 <!-- MS SQL  https://github.com/Ileriayo/markdown-badges -->
 <a href="https://github.com/slobodeniuk47">
   <img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
